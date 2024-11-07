@@ -1,12 +1,16 @@
 /* STYLE SECTIONING TAGS */
 body {
- background-color: lightcyan; 
+ /* background-color: lightcyan;  */
 }
 
 /* STYLE TEXT */
 
 h1 {
-  color: navy;
+  color: #410004;
+}
+
+p {
+  color: #65090e;
 }
 
 /* STYLE IMAGES */
