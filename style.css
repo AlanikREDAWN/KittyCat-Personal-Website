@@ -1,3 +1,13 @@
+@font-face {
+  font-family: FOT-Yuruka Std;
+  src: url(./FOT-YurukaStd-UB.otf);
+}
+
+@font-face {
+  font-family: Hometown;
+  src: url(./Hometown-rgdax.ttf);
+}
+
 /* STYLE SECTIONING TAGS */
 body {
  /* background-color: lightcyan;  */
@@ -7,10 +17,55 @@ body {
 
 h1 {
   color: #410004;
+  font-family: "FOT-Yuruka Std", sans-serif;
+  font-size: 2rem;
+}
+
+h2 {
+  color: #550005;
+  font-family: "FOT-Yuruka Std", sans-serif;
+  font-size: 3rem;
+}
+
+h3 {
+  color: #65090e;
+  font-family: "FOT-Yuruka Std", sans-serif;
+  font-size: 2rem;
 }
 
 p {
   color: #65090e;
+  font-family: "Hometown", sans-serif;
+  font-size: 3rem;
+  text-align: right;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+  align-self: center;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer {
+  width: 250%;
+}
+
+.kitty2 {
+  text-align: center;
+}
+
+.kitty1 {
+  background-color: #ffecea;
+  width: 20%;
+  border-color: #e76a62;
+  border-style: dashed;
+  border-width: 10px;
 }
 
 /* STYLE IMAGES */
