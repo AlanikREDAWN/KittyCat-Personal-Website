@@ -154,6 +154,131 @@ header {
   margin-top: -15%;
 }
 
+.zentangles {
+  padding-left: 3%;
+  padding-top: 5%;
+}
+
+.zentanglesText {
+  padding-left: 8%;
+  margin-top: -5%;
+} 
+
+.ceramics {
+  padding-left: 35%;
+  padding-top: 5%;
+  margin-top: -28.1%;
+}
+
+.ceramicsText {
+  padding-left: 14%;
+  margin-top: -8%;
+}
+
+.blender {
+  padding-left: 67%;
+  margin-top: -22.8%;
+}
+
+.blenderText {
+  padding-left: 27%;
+  margin-top: -15%;
+}
+
+.kahoot {
+  padding-left: 3%;
+  padding-top: 5%;
+}
+
+.kahootText {
+  padding-left: 6%;
+  margin-top: -5%;
+} 
+
+.coca-cola {
+  padding-left: 35%;
+  padding-top: 5%;
+  margin-top: -28.1%;
+}
+
+.coca-colaText {
+  padding-left: 11%;
+  margin-top: -14%;
+}
+
+.scene {
+  padding-left: 67%;
+  margin-top: -22.8%;
+}
+
+.sceneText {
+  padding-left: 23%;
+  margin-top: -25%;
+}
+
+.mushroom {
+  padding-left: 3%;
+  padding-top: 5%;
+}
+
+.mushroomText {
+  padding-left: 8%;
+  margin-top: -10%;
+} 
+
+.cloud {
+  padding-left: 35%;
+  padding-top: 5%;
+  margin-top: -28.1%;
+}
+
+.cloudText {
+  padding-left: 13%;
+  margin-top: -14%;
+}
+
+.cupcake {
+  padding-left: 67%;
+  margin-top: -22.8%;
+}
+
+.cupcakeText {
+  padding-left: 25%;
+  margin-top: -26%;
+}
+
+.catOS {
+  padding-left: 3%;
+  padding-top: 5%;
+}
+
+.catOSText {
+  padding-left: 10%;
+  margin-top: -5%;
+} 
+
+
+.snowglobe {
+  padding-left: 35%;
+  padding-top: 5%;
+  margin-top: -28.1%;
+}
+
+.snowglobeText {
+  padding-left: 12%;
+  margin-top: -8%;
+}
+
+.run {
+  padding-left: 67%;
+  margin-top: -22.8%;
+}
+
+.runText {
+  padding-left: 25%;
+  margin-top: -15%;
+}
+
 ul {
   list-style-type: none;
   overflow: hidden;
