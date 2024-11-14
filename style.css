@@ -1,3 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
 @font-face {
   font-family: FOT-Yuruka Std;
   src: url(./FOT-YurukaStd-UB.otf);
@@ -66,6 +78,104 @@ header {
   border-color: #e76a62;
   border-style: dashed;
   border-width: 10px;
+  margin-left: 60%;
+  margin-top: -20%;
+}
+
+.hello {
+  padding-left: 35%;
+  margin-top: -20%;
+}
+
+#me {
+  padding-right: 47%;
+
+}
+
+.aboutme {
+  padding-top: 20%;
+  padding-left: 80%;
+  z-index: 1;
+}
+
+.about {
+  padding-top: 10px;
+  padding-right: 4%;
+  z-index: 1;
+}
+
+
+
+.homepaw {
+  margin-top: -80px;
+  z-index: -2;
+}
+
+.meetkitties {
+  margin-top: 30%;
+  margin-bottom: 0;
+  z-index: 10;
+}
+
+.portfolio {
+  margin-top: -20%;
+  text-align: center;
+}
+
+.scribbletuber {
+  /* z-index: -1; */
+  padding-left: 3%;
+  padding-top: 5%;
+}
+
+.scribbletuberText {
+  padding-left: 6%;
+  margin-top: -5%;
+} 
+
+.tacoCatCatcherText {
+  padding-left: 14%;
+  margin-top: -14%;
+}
+
+.tacoCatCatcher {
+  padding-left: 35%;
+  padding-top: 5%;
+  margin-top: -27.8%;
+}
+
+.slimeGame {
+  padding-left: 67%;
+  margin-top: -22.8%;
+}
+
+.slimeGameText {
+  padding-left: 23%;
+  margin-top: -15%;
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  padding: 1em;
+}
+
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: #410004;
+  font-size: 1.3em;
+  padding: 1em;
+  font-family: "FOT-Yuruka Std", sans-serif;
+  z-index: 10;
+}
+
+li a:hover {
+  color: #ff8880;
 }
 
 /* STYLE IMAGES */
